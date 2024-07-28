@@ -1,0 +1,8 @@
+[package]
+name = "yesnt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+v8 = "0.101.0"
+clap = "4.5.11"
